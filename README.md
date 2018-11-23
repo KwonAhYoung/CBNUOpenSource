@@ -1,11 +1,11 @@
 # CBNUOpenSource
 CBNU Open Source Repo
 
-## 참가자 명단
-* 소현섭
-* 강산
-* 권아영
-* 넘빨라
+## List
+* SO HYEONSEOP
+* GANG SAN
+* KWON AHYOUNG
+* It's Too Fast
 
 ## 추천 프로그램
 * GitAhead
